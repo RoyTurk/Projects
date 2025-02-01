@@ -1,4 +1,4 @@
-# Numerical Flow Simulation - Ground Effect on Airfoil Aerodynamics
+# Numerical Flow Simulation - Ground Effect on Airfoil Aerodynamics 🛬
 
 - **Category:** CFD
 - **Course:** Numerical Flow Simulation (ME-474)
@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project aimed to investigate the **ground effect** on the **aerodynamic
 coefficients** of an airfoil, enhancing understanding of how proximity to
@@ -23,14 +23,20 @@ results.
 - **Ground Effect Analysis:** Varying height-to-chord ratio to evaluate its
 impact on aerodynamic performance, focusing in lift and drag coefficients.
 
-## Tools Used
+#
+
+## 🛠️ Tools Used
 
 - **Software:** Space Claim, ANSYS Workbench, ANSYS Fluent
 - **Documentation:** Latex
 
-## Authors
+#
+
+## 👷‍♂️ Authors
 
 - Teo Halevi
 - Selim Sherif
 - Roy Turk
 - Jan Zgraggen
+
+#
