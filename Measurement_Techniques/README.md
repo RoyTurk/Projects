@@ -1,4 +1,4 @@
-# Measurement Techniques - Deflection of Thin Plates in Water
+# Measurement Techniques - Deflection of Thin Plates in Water 👨‍🔬
 
 - **Category:** Experimental 
 - **Course:** Measurement Techniques (ME-301)
@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 The objective of this project was to **design an experiment** and measure 
 three different physical quantities using distinct sensing mechanisms.
@@ -24,16 +24,19 @@ and processing images for displacement tracking.
 - **Flow Velocity Measurement:** Implementing Particle Image Velocimetry
   (PIV) to analyze the velocity field around the plate.
 
-## Tools Used
+#
+
+## 🛠️ Tools Used
 
 - **Software:** Arduino IDE, PIVLab, GIMP
 - **Documentation:** Latex
 
-## Authors
+#
+
+## 👷‍♂️ Authors
 
 - Apolline Fabre
 - Georgios Stefanidis
 - Roy Turk
 
-
-
+#
