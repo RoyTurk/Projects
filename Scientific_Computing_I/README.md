@@ -1,4 +1,4 @@
-## Scientific Computing I - Carom's Billiard Game 🎱
+# Scientific Computing I - Carom Billiards Game 🎱
 
 - **Category:** Coding
 - **Course:** Programming for Engineers (ME-213)
@@ -7,7 +7,7 @@
 
 ---
 
-### 📌 Overview 
+## 📌 Overview 
 
 This was my **first large-scale coding project**, building on previous 
 programming courses by integrating **three different languages** into a
@@ -22,7 +22,7 @@ between C and MATLAB, along with error management.
 
 #
 
-### 📂 Project Structure 
+## 📂 Project Structure 
 
 - [Generated_Sequences](Generated_Sequences) contains the generated PDFs of all the sequences
 provided in the course.
@@ -33,14 +33,14 @@ and overall methodology used in the analysis.
 
 #
 
-### 🛠️ Tools used 
+## 🛠️ Tools used 
 
 - **Software:** Visual Studio Code, MATLAB, LabVIEW
 - **Documentation:** Latex
 
 #
 
-### 👷‍♂️ Authors  
+## 👷‍♂️ Authors  
 
 - Selim Sherif
 - Roy Turk
