@@ -1,4 +1,4 @@
-# Product Development and Engineering Design - Robotic Gripper 
+# Product Development and Engineering Design - Robotic Gripper 🤖
 
 - **Category:** Mechanical Design / CAD
 - **Course:** Product Development and Engineering Design (ME-320)
@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project involved designing a **robotic gripper** capable of handling 
 various food items and kitchen utensils.
@@ -20,14 +20,20 @@ the gripping mechanism.
 - **Electronics and Control:** Integrating Arduino for motor control and 
 sensor feedback.
 
-## Tools Used
+#
+
+## 🛠️ Tools Used
 
 - **Software:** Fusion360, Arduino IDE, Prusa Slicer
 - **Documentation:** Latex
 
-## Authors
+#
+
+## 👷‍♂️ Authors
 
 - Teo Halevi
 - Edwin Hämmerli
 - Erwin Hämmerli
 - Roy Turk
+
+#
