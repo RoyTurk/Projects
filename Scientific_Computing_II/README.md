@@ -1,4 +1,4 @@
-# Scientific Computing II - Eigen Solver
+# Scientific Computing II - Eigen Solver 🧮
 
 - **Category:** Coding
 - **Course**: Programming Concepts in Scientific Computing (MATH-458)
@@ -7,7 +7,7 @@
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 - **Programming Language:** C++
 - **IDE:** CLion
@@ -15,7 +15,7 @@
 - **Documentation:** Doxygen
 - **Software Testing:** Google Test
 
-## Table of contents
+## 📂 Table of contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Installation](#installation)
@@ -37,7 +37,7 @@
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 
 This repository implements three different methods to compute the eigenvalues of a matrix:
 1. **Power Method**
