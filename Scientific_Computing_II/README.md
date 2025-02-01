@@ -15,7 +15,7 @@
 - **Documentation:** Doxygen
 - **Software Testing:** Google Test
 
-## 📂 Table of contents
+## 📂 Table of Contents
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Installation](#installation)
