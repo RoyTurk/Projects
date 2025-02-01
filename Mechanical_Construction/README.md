@@ -7,7 +7,7 @@
 
 ---
 
-### Overview 📌
+### 📌 Overview 
 
 This project was my **first major semester project at EPFL**, offering an 
 opportunity to apply creativity and implement key concepts learned in my
@@ -27,14 +27,14 @@ manufacturing constraints.
 
 #
 
-### Tools used 🛠️
+### 🛠️ Tools used 
 
 - **Software**: CATIA V5
 - **Documentation**: Latex
 
 #
 
-### Project Members 👷‍♂️
+### 👷‍♂️ Project Members 
 
 - Adrien Cadet
 - Teo Halevi
