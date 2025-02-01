@@ -27,7 +27,7 @@ manufacturing constraints.
 
 #
 
-## 🛠️ Tools used 
+## 🛠️ Tools Used 
 
 - **Software**: CATIA V5
 - **Documentation**: Latex

@@ -24,16 +24,16 @@ between C and MATLAB, along with error management.
 
 ## 📂 Project Structure 
 
-- [Generated_Sequences](Generated_Sequences) contains the generated PDFs of all the sequences
+- *`Generated_Sequences`* contains the generated PDFs of all the sequences
 provided in the course.
-- [Source](Source) includes all source code files written in C, MATLAB, LabVIEW.
+- *`Source`* includes all source code files written in C, MATLAB, LabVIEW.
 The main execution file is *`Billard2023.vi`*.
-- [ME213_Report.pdf](ME213_Report.pdf) details the code structure, function explanations,
+- *`ME213_Report.pdf`* details the code structure, function explanations,
 and overall methodology used in the analysis.
 
 #
 
-## 🛠️ Tools used 
+## 🛠️ Tools Used 
 
 - **Software:** Visual Studio Code, MATLAB, LabVIEW
 - **Documentation:** Latex
