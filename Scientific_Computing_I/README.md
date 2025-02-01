@@ -1,4 +1,4 @@
-## Scientific Computing I - Carom's Billiard Game
+## Scientific Computing I - Carom's Billiard Game 🎱
 
 - **Category:** Coding
 - **Course:** Programming for Engineers (ME-213)
@@ -7,7 +7,7 @@
 
 ---
 
-### Overview
+### 📌 Overview 
 
 This was my **first large-scale coding project**, building on previous 
 programming courses by integrating **three different languages** into a
@@ -18,23 +18,31 @@ outcome.
 - **C:** Extracted ball positions from the video sequences.
 - **MATLAB:** Processed and plotted the data to check if the game was won.
 - **LabVIEW:** Acted as a *chef d'orchestre*, ensuring smooth data flow
-between C and MATLAB, along with error management. 
+between C and MATLAB, along with error management.
 
-### Project Structure
+#
 
-- *`Generated_Sequences`* contains the generated PDFs of all the sequences
+### 📂 Project Structure 
+
+- [Generated_Sequences](Generated_Sequences) contains the generated PDFs of all the sequences
 provided in the course.
-- *`Source`* includes all source code files written in C, MATLAB, LabVIEW.
+- [Source](Source) includes all source code files written in C, MATLAB, LabVIEW.
 The main execution file is *`Billard2023.vi`*.
-- *`ME213_Report.pdf`* details the code structure, function explanations,
+- [ME213_Report.pdf](ME213_Report.pdf) details the code structure, function explanations,
 and overall methodology used in the analysis.
 
-### Tools used
+#
+
+### 🛠️ Tools used 
 
 - **Software:** Visual Studio Code, MATLAB, LabVIEW
 - **Documentation:** Latex
 
-### Authors 
+#
+
+### 👷‍♂️ Authors  
 
 - Selim Sherif
 - Roy Turk
+
+#
