@@ -1,4 +1,4 @@
-# Machine Learning - Coronary Heart Disease Predictions
+# Machine Learning - Coronary Heart Disease Predictions 🤕
 
 - **Category:** Machine Learning
 - **Course:** Machine Learning (CS-433)
@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 The project focused on developing a **logistic regression model**
 to predict the likelihood of **coronary heart disease** (CHD).
@@ -26,13 +26,19 @@ reducing dimensionality to improve model performance.
 model from scratch, including the cost function, gradient descent
 optimization, and decision threshold for classification.
 
-## Tools Used
+#
+
+## 🛠️ Tools Used
 
 - **Programming Language:** Python
 - **IDE:** Visual Studio Code, Jupyter Notebook
 
-## Project Members
+#
+
+## 👷‍♂️ Project Members
 
 - Ali Elkilesly
 - Selim Sherif
 - Roy Turk
+
+#
