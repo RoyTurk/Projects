@@ -14,7 +14,7 @@ on the "F" in the **EPFL logo** to study its structural behavior
 under different loading conditions, including **buckling stability
 analysis**.
 
-The project involved:
+The project included:
 
 - **Geometry Construction:** Creating a precise representation of
 "F" shape for simulation.
