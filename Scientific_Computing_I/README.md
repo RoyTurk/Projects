@@ -22,7 +22,7 @@ between C and MATLAB, along with error management.
 
 #
 
-## 📂 Project Structure 
+## 📂 Project Contents
 
 - *`Generated_Sequences`* contains the generated PDFs of all the sequences
 provided in the course.
