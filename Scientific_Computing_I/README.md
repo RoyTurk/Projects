@@ -40,7 +40,7 @@ and overall methodology used in the analysis.
 
 #
 
-## 👷‍♂️ Authors  
+## 👷‍♂️ Project Members  
 
 - Selim Sherif
 - Roy Turk

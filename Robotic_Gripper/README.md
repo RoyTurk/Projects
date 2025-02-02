@@ -1,4 +1,4 @@
-# Product Development and Engineering Design - Robotic Gripper 🤖
+# Product Development and Engineering Design - Robotic Gripper 🦾
 
 - **Category:** Mechanical Design / CAD
 - **Course:** Product Development and Engineering Design (ME-320)
@@ -29,7 +29,7 @@ sensor feedback.
 
 #
 
-## 👷‍♂️ Authors
+## 👷‍♂️ Project Members
 
 - Teo Halevi
 - Edwin Hämmerli

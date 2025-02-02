@@ -32,7 +32,7 @@ impact on aerodynamic performance, focusing in lift and drag coefficients.
 
 #
 
-## 👷‍♂️ Authors
+## 👷‍♂️ Project Members
 
 - Teo Halevi
 - Selim Sherif

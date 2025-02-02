@@ -33,7 +33,7 @@ and processing images for displacement tracking.
 
 #
 
-## 👷‍♂️ Authors
+## 👷‍♂️ Project Members
 
 - Apolline Fabre
 - Georgios Stefanidis
