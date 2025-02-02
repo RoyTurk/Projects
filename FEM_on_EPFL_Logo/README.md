@@ -1,4 +1,4 @@
-# Finite Element Modelling and Simulation - Structural Analysis of the EPFL Logo
+# Finite Element Modelling and Simulation - Structural Analysis of the EPFL Logo 🏗️
 
 - **Category:** FEM
 - **Course:** Finite Element Modelling and Simulation (ME-373)
@@ -7,7 +7,7 @@
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project involved performing **Finite Element Analysis** (FEA)
 on the "F" in the **EPFL logo** to study its structural behavior
@@ -27,14 +27,14 @@ instability occurs.
 
 #
 
-## Tools Used
+## 🛠️ Tools Used
 
 - **Software:** CATIA V5, Abaqus
 - **Documentation:** Latex
 
 #
 
-## Project Members
+## 👷‍♂️ Project Members
 
 - Teo Halevi
 - William Martin 
