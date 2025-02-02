@@ -5,7 +5,7 @@
 Welcome to my **project archive**! A collection of diverse works that reflect my interests, coding style, documentation approach, and work methodology. This repository serves two key purposes:
 
 - **Showcase:** To provide an overview of the skills and experience I have developed across differents fields.
-- **Personal Archive:* A reference for myself to revisit past projects, track progress, and build upon previous work.
+- **Personal Archive:** A reference for myself to revisit past projects, track progress, and build upon previous work.
 
 The projects span across computational engineering, machine learning, numerical simulations, robotics, CAD, CFD, and more. 
 
