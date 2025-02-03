@@ -23,14 +23,14 @@ Each directory in this repository represents a separate project and follows a st
   - Tools Used (e.g. Programming Language, Software)
   - Project Goals
 - Implementation Details
-  - *`X_Final_Report.pdf`* - A detailed document that explains the methodology, analysis and results of the project.
+  - *`X_Final_Report.pdf`* - A detailed document that explains the methodology, analysis, and results of the project.
   - **Project Files** - Source code, CAD models, simulation files, or datasets used in the project.
 
 #
  
 ## 📬 Let's Connect
 
-If you find any of these projects intersting, have questions, or want to collaborate, feel free to reach out!
+If you find any of these projects interesting, have questions, or want to collaborate, feel free to reach out!
 
    <p align="left">
       <a href="mailto:turk.roy@protonmail.com">
